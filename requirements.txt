@@ -1,0 +1,7 @@
+# MADS — Multi-Agent Dialectic System
+# Python 3.12+ required
+
+langgraph>=1.1.0
+langchain-core>=0.3.0
+langchain-ollama>=0.3.0
+ollama>=0.4.0
